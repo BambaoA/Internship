@@ -1,0 +1,7 @@
+use git lfs
+
+Commands:
+
+git lfs install (not installed)
+
+git clone https://github.com/BambaoA/Internship.git
